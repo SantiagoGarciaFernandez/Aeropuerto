@@ -8,4 +8,5 @@ Al agregar el UML logramos saber como los objetos intercatuan entre el sistema d
 Para correr el codigo es necesario poner esto en la terminal:
 
 g++ -std=c++11 AeropuertoMain.cpp
+
 ./a.out
